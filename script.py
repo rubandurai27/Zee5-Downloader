@@ -21,15 +21,15 @@ Click <i>/help</i> for more details....</b>"""
 NOTE: Download may take some time! So please wait for it to complete!"""
 
 
-    ABOUT_TEXT = """⭕️<b>My Name : TN Zee5 DL</b>
+    ABOUT_TEXT = """📌 <b>My Name : TN Zee5 DL</b>
 
-⭕️<b>Creater :</b> @Rubanduari27
+📌 <b>Creater :</b> @Rubandurai27
 
-⭕️<b>Language :</b> <code>Python3</code>
+📌 <b>Language :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+📌 <b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Source Code :</b> 👉 <a href='https://github.com/TroJanzHEX/Zee5-Downloader'>Click Here</a>"""
+📌 <b>Source Code :</b> 👉 <a href='https://github.com/TroJanzHEX/Zee5-Downloader'>Click Here</a>"""
 
 
 
