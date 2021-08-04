@@ -6,10 +6,11 @@ I'm A simple Zee5 link downloader bot With Permanent Thumbnail Support💯.
 
 Please send me any Zee5 link, I can upload it to telegram as File/Video.
 
-Currently I'm in beta mode 🥺, If found any bugs, report @TroJanzSupport !
+
 
 Click <i>/help</i> for more details....</b>"""
 
+  @TNROCKERS2021
 
     HELP_USER = """<b>Hai, Follow these steps..</b>
  
