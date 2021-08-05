@@ -10,7 +10,7 @@ Please send me any Zee5 link, I can upload it to telegram as File/Video.
 
 Click <i>/help</i> for more details....</b>"""
 
-  "@TNROCKERS2021"
+  """<b>@TNROCKERS2021<b>"""
 
     HELP_USER = """<b>Hai, Follow these steps..</b>
  
